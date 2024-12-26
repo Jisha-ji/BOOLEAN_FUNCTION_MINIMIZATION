@@ -10,15 +10,21 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **Equipment Required:**
 
-software-quartus prime cyclone V
+Software-quartus prime ,cyclone V
 
 **Theory**
 
-Theory Boolean function minimization is the process of simplifying Boolean
+ Boolean function minimization is the process of simplifying Boolean
 expressions, reducing the number of terms or literals without changing the functionality.
 Simplifying Boolean functions is essential for designing efficient digital circuits, as it
 reduces the number of gates required, minimizing cost, power consumption, and circuit
 complexity.
+
+**logic diagram**
+
+
+![WhatsApp Image 2024-12-26 at 15 44 23_35f95b30](https://github.com/user-attachments/assets/28e9bbea-55af-46eb-b829-2b8a452fa201)
+
 
 **Procedure**
 
@@ -74,15 +80,6 @@ function 2:
 
 ![exp-2 output2](https://github.com/user-attachments/assets/abeff791-0d27-45d4-b9e1-3324cd9c9906)
 
-**Timing Diagram**
-
-function 1:
-
-![exp2 output2](https://github.com/user-attachments/assets/c805f89d-2704-481f-920e-0e47281d1b8f)
-
-function 2:
-
-![exp-2a f2 last](https://github.com/user-attachments/assets/7f49c916-3688-4460-8a82-2965cf266ccf)
 
 **Result:**
 
